@@ -1,0 +1,6 @@
+{
+  "extends": "stylelint-config-manzdev",
+  "rules": {
+    "no-unknown-custom-properties": null
+  }
+}
